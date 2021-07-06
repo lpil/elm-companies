@@ -15,6 +15,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [carwow](https://www.carwow.co.uk/) ([GitHub](https://github.com/carwow)) -
   Based in London and Munich, carwow is the most convenient, stress-free way to
   find and buy a new car, at a price you can be confident in, and we love Elm!
+* [Ford](https://www.ford.com/). [Talk about Elm at Ford (Elm Conf)](https://www.youtube.com/watch?v=5WVXCy1Q88o "Facilitating Technology Change Through Cultural Change - Grant Maki").
 
 
 #### Banking
@@ -86,7 +87,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   software that works.
 * [Gizra](http://www.gizra.com/)
   ([GitHub](https://github.com/Gizra)) -
-  Gizra build websites.
+  Gizra build websites. [Talk about Elm at Gizra](https://www.youtube.com/watch?v=FgaoOgJ5CAU).
 * [jambit](https://jambit.com) -
   jambit is an innovative software company. We offer conception and development
   of customer-specific software solutions and draw on various industry
@@ -127,7 +128,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   and several developers who are excited about Elm.
 * [Rakuten](https://global.rakuten.com/corp/)
   ([GitHub](https://rakutentech.github.io/)) - Global electronic commerce and
-  Internet company based in Japan
+  Internet company based in Japan. [Post about Elm at Rakuten](https://dev.to/lucamug/elm-6m8).
 * [Zalora](https://zalora.com/) - Based in Singapore, Zalora is the leading 
   fashion e-commerce shop in Southeast Asia. We utilize Elm for our shop's 
   catalog, improving the customer's experience when shopping with us.
@@ -154,7 +155,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 * [NoRedInk](https://www.noredink.com/)
   ([GitHub](https://github.com/NoRedInk)) -
   NoRedInk provide a language learning platform for children. Evan Czaplicki,
-  the creator of Elm, is a NoRedInk employee.
+  the creator of Elm, is a NoRedInk employee. [Post about Elm at NoRedInk](https://juliu.is/elm-at-noredink/).
 * [Roompact](https://roompact.com/) -
   Roompact is a Chicago-based company that makes a residential education,
   learning, and engagement platform used by university residence life
@@ -233,7 +234,7 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
 
 * [Culture Amp](https://cultureamp.com) ([Github](https://github.com/cultureamp))
   Culture Amp makes it easy to collect, understand and act on employee feedback.
-  Based in Melbourne with offices in San Francisco, New York, Palo Alto, and London.
+  Based in Melbourne with offices in San Francisco, New York, Palo Alto, and London. [Video about Elm at Culture Amp]().
 * [TruQu](https://truqu.com/)
   ([GitHub](https://github.com/truqu)) -
   TruQu provide a HR solution to collect and analyze feedback, giving
@@ -271,6 +272,8 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   SaaS apps' usage and spend, along with powerful workflows to manage change.
   Headquarters in NYC, engineering is remote friendly, with 50% outside NYC.
 * [Stax](https://www.stax.io/) - Secure platform to AWS cloud management and monitoring. Melbourne, Australia.
+* [Humlio](https://www.humio.com/) - Humio is the creator of the Humio live observability platform that enables data aggregation, exploration, reporting and analysis from a range of sources. The purpose-built logging tool features innovative data storage and in-memory search/query engine technologies. [Post about Elm at Humlio](https://www.humio.com/whats-new/blog/why-we-chose-elm-for-humio-s-web-ui).
+* [Thoughtbot](https://thoughtbot.com/) - Thoughtbot is your expert design and development partner. We bring digital products from validation to success and teach you how because we care. It’s time to move beyond simply building features and start designing the right product with the right strategy. [Posts about Elm at Thoughtbot](https://thoughtbot.com/blog/tags/elm).
 
 
 #### LawTech
