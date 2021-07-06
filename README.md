@@ -186,6 +186,15 @@ Inspired by Doomspork's [Elixir companies][elixir-companies] list.
   Basiq is the best aggregation platform for acquiring financial data.
   We provide secure access to hundreds of financial institutions through 
   a simple set of RESTful APIs.
+* [Featurespace](http://www.featurespace.com/) ([GitHub](https://github.com/Featurespace))
+  is the world leader in enterprise financial crime prevention for fraud and
+  anti-money laundering. Featurespace invented Adaptive Behavioral Analytics 
+  and Automated Deep Behavioral Networks, both of which are available through 
+  the ARIC platform, a real-time machine learning software that risk scores 
+  millions of events each second in more than 180 countries. The company 
+  [chooses](https://www.youtube.com/watch?v=0AosqGTEa0Q) to build its user interface 
+  with Elm, and with over 300k lines of code it is one of the largest users of Elm 
+  in the world.
 * [FörsäkringsGirot](https://www.fgirot.se/) - 
   FörsäkringsGirot is a Swedish company that helps major companies manage their
   employee pensions, and ensures everyone gets paid correctly.
